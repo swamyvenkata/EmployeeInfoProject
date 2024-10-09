@@ -1,0 +1,85 @@
+{
+  "version": "1.0",
+  "list": [
+    {
+      "UTILITY": "LAMP",
+      "WATTS": "100"
+    },
+    {
+      "UTILITY": "TUBE LIGHT",
+      "WATTS": "40"
+    },
+    {
+      "UTILITY": "REFRIGERATOR",
+      "WATTS": "200"
+    },
+    {
+      "UTILITY": "A/C WINDOW TYPE ( 1.5 ton)",
+      "WATTS": "1500 -2000"
+    },
+    {
+      "UTILITY": "AIR COOLER (MEDIUM)",
+      "WATTS": "200"
+    },
+    {
+      "UTILITY": "ROOM COOLER",
+      "WATTS": "60-200"
+    },
+    {
+      "UTILITY": "FAN",
+      "WATTS": "60-100"
+    },
+    {
+      "UTILITY": "EXHAUST FAN",
+      "WATTS": "150"
+    },
+    {
+      "UTILITY": "ELECTRIC IRON",
+      "WATTS": "600- 1000"
+    },
+    {
+      "UTILITY": "WATER HEATER",
+      "WATTS": "1500"
+    },
+    {
+      "UTILITY": "WATER GEYSER",
+      "WATTS": "1000- 2000"
+    },
+    {
+      "UTILITY": "TOASTER",
+      "WATTS": "750"
+    },
+    {
+      "UTILITY": "ROOM HEATER (SIMPLE)",
+      "WATTS": "1000- 2000"
+    },
+    {
+      "UTILITY": "ROOM HEATER (WITH FAN)",
+      "WATTS": "1000 -2000"
+    },
+    {
+      "UTILITY": "WASHING MACHINE",
+      "WATTS": "700"
+    },
+    {
+      "UTILITY": "RADIO",
+      "WATTS": "40"
+    },
+    {
+      "UTILITY": "TV",
+      "WATTS": "200"
+    },
+    {
+      "UTILITY": "MIXER-GRINDER",
+      "WATTS": "200"
+    },
+    {
+      "UTILITY": "COMPUTER",
+      "WATTS": "200"
+    },
+    {
+      "UTILITY": "PUMP MOTOR",
+      "WATTS": "740"
+    }
+  ]
+}

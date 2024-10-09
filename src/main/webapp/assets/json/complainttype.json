@@ -1,0 +1,66 @@
+{
+	"MTR": {
+		"id":"Meter Related",
+		"sub":{
+			"Meter Running Slow and Sluggish":"25",
+			"Meter Stuck Up":"27",
+			"Meter No Seal/Seal Cut":"30",
+			"Meter Damage":"29",
+			"Other Meter Related Complaints":"32",
+			"Meter Running Fast":"24"
+		}
+	},
+	"BILL":{ 
+		"id":"Billing Related",
+		"sub":{
+			"Issue of Duplicate Bill":"37",
+			"Delay Billing":"39",
+			"Other Billing Related Complaints":"38",
+			"Bill Not Service/Issued":"40",
+			"Arrears Dispute":"36",
+			"Wrong Billing":"34",
+			"Meter Reading Not Taken":"33"
+		}
+	},
+	"SUP": {
+		"id":"Supply Related",
+		"sub":{
+			"Supply Failure Individual":"5",
+			"Supply Failure One Phase Out":"4",
+			"Supply Failure Total Area":"6"
+		}
+	},
+	"INC": {
+		"id":"Incident",
+		"sub":{
+			"Pole Leaning":"8",
+			"SC-Wire Damaged":"16",
+			"SC-Wire Loose Connection":"15",
+			"SC-Wire Broken":"14",
+			"Line Bunched/Twisted":"12",
+			"Current Leakage in Pole":"10",
+			"Pole Rusted/Damaged":"9",
+			"Pole Fell Down":"7"
+		}
+	},
+	"VOL":{
+		"id":"Voltage Related",
+		"sub":{
+			"Voltage High":"0",
+			"Voltage Fluctuation":"3",
+			"Voltage Low":"1",
+			"Dim Supply":"2"
+		}
+	},
+	"TSR":{
+		"id":"Transformer Related",
+		"sub":{
+			"Transformer - DTR Failure - Rural":"21",
+			"Transformer - Sparking at Pole":"19",
+			"Transformer - Cable / Lugs Burnt":"18",
+			"Transformer - Smoke / Flames":"20",
+			"Transformer - Oil Leakage":"17",
+			"Transformer - DTR Failure - Urban":"22"
+		}
+	}
+}

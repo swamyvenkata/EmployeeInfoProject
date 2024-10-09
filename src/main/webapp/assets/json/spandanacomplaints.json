@@ -1,0 +1,56 @@
+{
+	"Billing Related":[
+		"Issue of Duplicate Bill",
+		"Delay Billing",
+		"Bill Not Service/Issued",
+		"Arrears Dispute",
+		"Wrong Billing",
+		"Meter Reading Not Taken",
+		"Other Billing related Complaints"
+	],
+	"Line Related":[
+		"Line - Tree Branches Touch in",
+		"Line Bunched/Twisted",
+		"Line Snapped",
+		"Pole Leaning",
+		"Supply Failure Individual"
+	],
+	"Pole Related":[
+		"Current Leakage in Pole",
+		"Pole Fell Down",
+		"Pole Leaning",
+		"Pole Rusted/Damaged"
+	],
+	"SC Wire Related":[
+		"Current Leakage in Pole",
+		"SC-Wire Broken",
+		"SC-Wire Damaged",
+		"SC-Wire Loose Connection."
+	],
+	"Supply Failure Related":[
+		"Supply Failure Individual",
+		"Supply Failure One Phase Out",
+		"Supply Failure Total Area"
+	],
+	"Transformer Related":[
+		"Transformer - Cable / Lugs Burnt",
+		"Transformer - Oil Leakage",
+		"Transformer - Smoke / Flames",
+		"Transformer - Sparking at Pole",
+		"Transformer - DTR Failure - Rural",
+		"Transformer - DTR Failure - Urban"
+	],
+	"Voltage Related":[
+		"Dim Supply",
+		"Line Snapped",
+		"Voltage Fluctuation",
+		"Voltage High",
+		"Voltage Low"
+	],
+	"incident":[
+		"Current Leakage in Pole",
+		"Pole Leaning",
+		"SC-Wire Broken",
+		"Transformer - Sparking at Pole"
+	]
+}
