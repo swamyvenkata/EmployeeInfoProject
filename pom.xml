@@ -96,7 +96,14 @@
     <artifactId>jstl</artifactId>
     <version>1.2</version>
 </dependency>
-    
+
+ <!--<dependency>
+    <groupId>com.sap.conn.jco</groupId>
+    <artifactId>sapjco3</artifactId>
+ </dependency>-->
+
+
+
 	</dependencies>
 
 	<build>

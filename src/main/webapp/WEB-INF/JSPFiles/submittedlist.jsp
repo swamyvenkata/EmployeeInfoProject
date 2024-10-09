@@ -2,7 +2,7 @@
 <%@ taglib prefix="fn" uri="http://java.sun.com/jsp/jstl/functions"%>
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt"%>
 <jsp:include page="headerOne.jsp"></jsp:include>
-<jsp:directive.page import="com.vo.User" />
+<jsp:directive.page import="com.pojo.User" />
 <%
 	User loggedinuser1 = null;	
 	String empid = null;

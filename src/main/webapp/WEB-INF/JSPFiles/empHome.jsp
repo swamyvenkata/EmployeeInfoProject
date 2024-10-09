@@ -1,6 +1,6 @@
 <jsp:include page="header.jsp"/>
 			<%@ page import="java.util.*"%>
-			<jsp:directive.page import="com.vo.User" />
+			<jsp:directive.page import="com.pojo.User" />
 <%
 	User loggedinuser1 = null;	
 	String empid = null;
